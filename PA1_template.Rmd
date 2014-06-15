@@ -1,9 +1,5 @@
----
-title: "Reproducible Research: Peer Assignment 1"
-author: "Russell Dinnage"
-date: "13/06/2014"
-output: md_document
----
+
+## Reproducible Research: Peer Assignment 1
 
 This report describes an analysis of some data from a personal monitoring device, that has recorded the number of steps that an anonymous individual has taken in 5-minute intervals over two months in 2012.
 
